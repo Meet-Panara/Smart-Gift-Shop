@@ -42,7 +42,7 @@ session_start();
     <section class="icons-container">
 
         <div class="icons">
-            <img src="css/images/free-delivery.png" alt="">
+            <img src="../images/free-delivery.png" alt="">
             <div class="info">
                 <h3>free delivery</h3>
                 <span>on all orders</span>
@@ -50,7 +50,7 @@ session_start();
         </div>
     
         <div class="icons">
-            <img src="css/images/10_days_return.png" alt="">
+            <img src="../images/10_days_return.png" alt="">
             <div class="info">
                 <h3>10 days returns</h3>
                 <span>moneyback guarantee</span>
@@ -58,7 +58,7 @@ session_start();
         </div>
     
         <div class="icons">
-            <img src="css/images/offers.png" alt="">
+            <img src="../images/offers.png" alt="">
             <div class="info">
                 <h3>offer & gifts</h3>
                 <span>on all orders</span>
