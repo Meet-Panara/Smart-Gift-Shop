@@ -293,7 +293,7 @@ section{
    display: flex;
    align-items: center;
    min-height: 80vh;
-   background:url('Gift_bg.jpg') no-repeat;
+   background:url('../../images/Gift_bg.jpg') no-repeat;
    background-size: cover;
    background-position: center;
 }
